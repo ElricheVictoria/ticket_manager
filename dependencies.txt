@@ -1,6 +1,15 @@
 asgiref==3.8.1
+cffi==1.17.1
 colorama==0.4.6
+cryptography==44.0.0
 Django==5.1.5
+django-appconf==1.0.6
+django-compressor==4.5.1
+django-tailwind==3.8.0
+pillow==11.1.0
+pycparser==2.22
 qrcode==8.0
+rcssmin==1.1.2
+rjsmin==1.2.2
 sqlparse==0.5.3
 tzdata==2025.1
